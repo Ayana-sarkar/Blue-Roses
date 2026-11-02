@@ -81,11 +81,8 @@
    <div class="animated-card"> 
    <p>aaaaadkdfjoifjiushffff </p>
    </div>
-    
-    <div><br clear="left">
-    </div >
    <footer>
-        <a href="https://ayana-sarkar.github.io/1st_rough_jjk/" class="btn" > Home </a>
+        <a href="https://ayana-sarkar.github.io/1st_rough_jjk/" class="btn" > ingredients </a>
     </footer>
 </body>
 </html>
